@@ -49,7 +49,7 @@ It depends on the mode you choose:
 | deobfCompile   | Equal to `compile`, but it deobfuscate the mod if it's not providing a deobfuscated jars                         |
 
 !!! tip
-  The best choice most of the time is `deobfCompile`
+  `deobfCompile` is usually the best choice.
 
 # ToDo
 ---
