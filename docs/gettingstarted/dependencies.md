@@ -41,7 +41,7 @@ Considering the dependencies you may even need to add multiple lines for a singl
 It depends on the mode you choose:
 (Development Environment = `dev env`)
 | mode           | explanation                                                                                                      |
-| -------------: | :--------------------------------------------------------------------------------------------------------------- |
+| --------------:|:---------------------------------------------------------------------------------------------------------------- |
 | runtime        | This will not add the source code. This will just add the mod as a playable version to your dev env              |
 | provided       | Adds the source code, so that you can use it but don't have the mod when testing in your dev env                 |
 | compile        | Combines `runtime` and `provided`, you get access to the source code and have a playable version in your dev env |
