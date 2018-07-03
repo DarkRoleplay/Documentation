@@ -40,6 +40,7 @@ It also might be the case that multiple mods share one `repository`, in that cas
 Considering the dependencies you may even need to add multiple lines for a single mod.
 It depends on the mode you choose:
 (Development Environment = `dev env`)
+
 | mode           | explanation                                                                                                      |
 | --------------:|:---------------------------------------------------------------------------------------------------------------- |
 | runtime        | This will not add the source code. This will just add the mod as a playable version to your dev env              |
